@@ -7,6 +7,8 @@
 
 namespace DianaArnos\DarkmiraTourBR2016\CharCount;
 
+require('Sender.php');
+
 class Client
 {
     private $filePath = '';
